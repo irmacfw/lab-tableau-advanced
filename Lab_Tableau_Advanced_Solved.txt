@@ -1,0 +1,7 @@
+Ironhack - Data Analytics Bootcamp
+Module: Lab Tableau Advanced  - Customer Value Analysis
+Student: Irma Fernandez
+
+Dashboard Link:
+
+https://public.tableau.com/app/profile/irma.fernandez/viz/LabTableau_17598633979200/Story1?publish=yes
